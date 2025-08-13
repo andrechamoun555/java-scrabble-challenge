@@ -1,7 +1,7 @@
 package com.booleanuk;
 
 public class Scrabble {
-    private String word;
+    private final String word;
 
 
     public Scrabble(String word) {
